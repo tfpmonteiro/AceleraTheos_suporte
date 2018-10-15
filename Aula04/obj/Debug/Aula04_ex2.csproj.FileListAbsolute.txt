@@ -1,0 +1,5 @@
+E:\Talita\Cursos\AceleraTheos\Aula04\bin\Debug\Aula04.exe.config
+E:\Talita\Cursos\AceleraTheos\Aula04\obj\Debug\Aula04.exe
+E:\Talita\Cursos\AceleraTheos\Aula04\obj\Debug\Aula04.pdb
+E:\Talita\Cursos\AceleraTheos\Aula04\bin\Debug\Aula04.exe
+E:\Talita\Cursos\AceleraTheos\Aula04\bin\Debug\Aula04.pdb

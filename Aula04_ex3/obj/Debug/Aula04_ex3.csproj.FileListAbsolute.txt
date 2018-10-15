@@ -1,0 +1,6 @@
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\bin\Debug\Aula04_ex3.exe.config
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\bin\Debug\Aula04_ex3.exe
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\bin\Debug\Aula04_ex3.pdb
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\obj\Debug\Aula04_ex3.csprojResolveAssemblyReference.cache
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\obj\Debug\Aula04_ex3.exe
+E:\Talita\Cursos\AceleraTheos\Aula04_ex3\obj\Debug\Aula04_ex3.pdb

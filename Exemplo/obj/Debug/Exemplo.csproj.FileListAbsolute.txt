@@ -1,0 +1,6 @@
+E:\Talita\Cursos\AceleraTheos\Exemplo\bin\Debug\Exemplo.exe.config
+E:\Talita\Cursos\AceleraTheos\Exemplo\bin\Debug\Exemplo.exe
+E:\Talita\Cursos\AceleraTheos\Exemplo\bin\Debug\Exemplo.pdb
+E:\Talita\Cursos\AceleraTheos\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+E:\Talita\Cursos\AceleraTheos\Exemplo\obj\Debug\Exemplo.exe
+E:\Talita\Cursos\AceleraTheos\Exemplo\obj\Debug\Exemplo.pdb
